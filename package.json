@@ -1,6 +1,6 @@
 {
   "name": "@gton-capital/safe-deployments",
-  "version": "1.16.0",
+  "version": "1.16.1",
   "description": "Collection of Safe singleton deployments",
   "homepage": "https://github.com/GTON-capital/safe-deployments",
   "license": "MIT",
